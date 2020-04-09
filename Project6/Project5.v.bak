@@ -1,0 +1,32 @@
+module Project5(ibus,clk,Aselect,Bselect,Dselect,Imm,S,Cin);
+
+input [31:0] ibus;
+input clk;
+
+output [31:0] Aselect,Bselect,Dselect;
+output [2:0] S;
+output Imm,Cin;
+
+wire [31:0] bus,rs,rt,rd,dsel;
+wire I,V;
+wire [2:0] Sel;
+
+
+DFF32 IF(ibus,clk,bus);
+
+Decoder rs_decode(bus[25:21],rs);
+Decoder rt_decode(bus[20:16],rt);
+Decoder rd_decode(bus[15:11],rd);
+Opcode op_decode(bus,I,Sel,V);
+
+Mux21 DBusSel(rd,rt,I,dsel);
+
+assign Aselect = rs;
+assign Bselect = rt;
+
+DFF32 DOut(dsel,clk,Dselect);
+DFF3 SOut(Sel,clk,S);
+DFF ImmOut(I,clk,Imm);
+DFF CinOut(V,clk,Cin);
+
+endmodule

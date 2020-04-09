@@ -1,0 +1,466 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/iblee/Desktop/Logic and Design
+vALU
+Z0 !s110 1586459121
+!i10b 1
+!s100 mo]<l4F=TG;i_eIcaK2S=0
+IZanW=HMG4G8QWeEg7=3L?3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/iblee/Desktop/Project6
+Z3 w1586440419
+Z4 8C:/Users/iblee/Desktop/Project6/ALU.v
+Z5 FC:/Users/iblee/Desktop/Project6/ALU.v
+L0 1
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1586459121.000000
+Z8 !s107 C:/Users/iblee/Desktop/Project6/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/ALU.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+valu2b
+R0
+!i10b 1
+!s100 4kYl99G]SX:<LZN1lkV5I1
+IkMF[Oa`80UIeLbJP[KR5P3
+R1
+R2
+R3
+R4
+R5
+L0 52
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vDecoder
+R0
+!i10b 1
+!s100 @oNnND4>W]D_cOCZ[VM@m1
+IRDg<Zj_Y9Y6IRo?YHCocT2
+R1
+R2
+w1586437966
+8C:/Users/iblee/Desktop/Project6/Decoder.v
+FC:/Users/iblee/Desktop/Project6/Decoder.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iblee/Desktop/Project6/Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Decoder.v|
+!s101 -O0
+!i113 1
+R10
+n@decoder
+vDFF
+R0
+!i10b 1
+!s100 RXen:2L[j`KF`zHH?[01;3
+I?QY91J^GSFjFQi1cA7l202
+R1
+R2
+w1586455509
+8C:/Users/iblee/Desktop/Project6/DFF.v
+FC:/Users/iblee/Desktop/Project6/DFF.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iblee/Desktop/Project6/DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/DFF.v|
+!s101 -O0
+!i113 1
+R10
+n@d@f@f
+vDFF3
+R0
+!i10b 1
+!s100 c53>;BZHQh`aKmlZ519bZ3
+IdkW0Zcm;fA2=9XNVo9c302
+R1
+R2
+w1586455503
+8C:/Users/iblee/Desktop/Project6/DFF3.v
+FC:/Users/iblee/Desktop/Project6/DFF3.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iblee/Desktop/Project6/DFF3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/DFF3.v|
+!s101 -O0
+!i113 1
+R10
+n@d@f@f3
+vDFF32
+Z11 !s110 1586459120
+!i10b 1
+!s100 L^L1^1Tf37@gSEfm5kENg0
+I`aRJmez2izR<0A7cN^mmE0
+R1
+R2
+w1586455497
+8C:/Users/iblee/Desktop/Project6/DFF32.v
+FC:/Users/iblee/Desktop/Project6/DFF32.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z12 !s108 1586459120.000000
+!s107 C:/Users/iblee/Desktop/Project6/DFF32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/DFF32.v|
+!s101 -O0
+!i113 1
+R10
+n@d@f@f32
+vlac16
+R0
+!i10b 1
+!s100 oA3BR=h[45RedPXaVQ5TU1
+IRlY7i1mG0lE1R]]i[43m40
+R1
+R2
+R3
+R4
+R5
+L0 130
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vlac2
+R0
+!i10b 1
+!s100 mEeJh;R3]g9aQ<;abc<HC2
+I0>Qo0nFlAm9hPAJhodINj0
+R1
+R2
+R3
+R4
+R5
+L0 82
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vlac32
+R0
+!i10b 1
+!s100 <U5gk?1MaGzCfek8O[E1g1
+I5KGibdi5VVALmh`=N<kJ_0
+R1
+R2
+R3
+R4
+R5
+L0 147
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vlac4
+R0
+!i10b 1
+!s100 ICRU<::Q]Q>G?`2WL^[9I2
+IUH`zj7a2kSI?2IRNAg`i92
+R1
+R2
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vlac8
+R0
+!i10b 1
+!s100 RB?ImooFzF0c6ieQ`:EWI2
+Ijg]Y>6CB;K2>3_1]D>RhO3
+R1
+R2
+R3
+R4
+R5
+L0 113
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vMux21
+R0
+!i10b 1
+!s100 e<PFc`LP6=nWBojT6>N@c2
+I=Te19;mc?kIIdU;Dh_=Mk2
+R1
+R2
+w1586437919
+8C:/Users/iblee/Desktop/Project6/Mux21.v
+FC:/Users/iblee/Desktop/Project6/Mux21.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iblee/Desktop/Project6/Mux21.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Mux21.v|
+!s101 -O0
+!i113 1
+R10
+n@mux21
+voneWordx32bit
+R11
+!i10b 1
+!s100 CWOG^IYEQO0BXnonID@0E0
+IY2m9450]SQb`A9<S@a=^h0
+R1
+R2
+Z13 w1586459111
+Z14 8C:/Users/iblee/Desktop/Project6/RegisterFile.v
+Z15 FC:/Users/iblee/Desktop/Project6/RegisterFile.v
+L0 44
+R6
+r1
+!s85 0
+31
+R12
+Z16 !s107 C:/Users/iblee/Desktop/Project6/RegisterFile.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/RegisterFile.v|
+!s101 -O0
+!i113 1
+R10
+none@wordx32bit
+vOpcode
+R0
+!i10b 1
+!s100 Xi3JTbDc6K97>DVjBDGeJ3
+I20K7KjcSFc96INP[>hFG[1
+R1
+R2
+w1586437755
+8C:/Users/iblee/Desktop/Project6/Opcode.v
+FC:/Users/iblee/Desktop/Project6/Opcode.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iblee/Desktop/Project6/Opcode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Opcode.v|
+!s101 -O0
+!i113 1
+R10
+n@opcode
+vProject5
+Z18 !s110 1586453708
+!i10b 1
+!s100 zz9GM=FclXVY3kSoBj^Ii0
+IN9S>PKJ5NjF8z:^jbbOT73
+R1
+R2
+w1586441561
+8C:/Users/iblee/Desktop/Project6/Project5.v
+FC:/Users/iblee/Desktop/Project6/Project5.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z19 !s108 1586453708.000000
+!s107 C:/Users/iblee/Desktop/Project6/Project5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Project5.v|
+!s101 -O0
+!i113 1
+R10
+n@project5
+vProject5_test
+R18
+!i10b 1
+!s100 ONBHBY@MPjkV=KlSfZ?DO2
+I@LYiN6eLLf6=`6oe2bk=61
+R1
+R2
+w1585191077
+8C:/Users/iblee/Desktop/Project6/Project5_test_Dearlier.v
+FC:/Users/iblee/Desktop/Project6/Project5_test_Dearlier.v
+L0 2
+R6
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/iblee/Desktop/Project6/Project5_test_Dearlier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Project5_test_Dearlier.v|
+!s101 -O0
+!i113 1
+R10
+n@project5_test
+vProject6
+R11
+!i10b 1
+!s100 :E2Z@OF0ER1BVCR;kcK_41
+IYQQlVKZhC2S9mAb@2Yd=]2
+R1
+R2
+w1586459017
+8C:/Users/iblee/Desktop/Project6/Project6.v
+FC:/Users/iblee/Desktop/Project6/Project6.v
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/iblee/Desktop/Project6/Project6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Project6.v|
+!s101 -O0
+!i113 1
+R10
+n@project6
+vProject6_test
+R0
+!i10b 1
+!s100 lihaFbkKM@AQPFYkc=aEP0
+IZ^dfaFF`B>jJ3M20;TSQF2
+R1
+R2
+w1586440072
+8C:/Users/iblee/Desktop/Project6/Project6_test.v
+FC:/Users/iblee/Desktop/Project6/Project6_test.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/iblee/Desktop/Project6/Project6_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/Project6_test.v|
+!s101 -O0
+!i113 1
+R10
+n@project6_test
+vRegisterFile
+R11
+!i10b 1
+!s100 4:[zT`SU`h5?ZcMfGA?JO1
+IG4^XK0jIk<8TB8XjA5FHE1
+R1
+R2
+R13
+R14
+R15
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R10
+n@register@file
+vSignEx
+R0
+!i10b 1
+!s100 [AQlISZJ[cT`fb?2l=P=j1
+IO2[j`?z7ETdcCRaz3`D`b2
+R1
+R2
+w1586440477
+8C:/Users/iblee/Desktop/Project6/SignEx.v
+FC:/Users/iblee/Desktop/Project6/SignEx.v
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/iblee/Desktop/Project6/SignEx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/iblee/Desktop/Project6/SignEx.v|
+!s101 -O0
+!i113 1
+R10
+n@sign@ex
+vTriBuffer32
+R11
+!i10b 1
+!s100 1OoKZ2MGa88:Ie`z3P8X23
+IEFW^1L2]Zn<@oD009j[B21
+R1
+R2
+R13
+R14
+R15
+L0 63
+R6
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R10
+n@tri@buffer32

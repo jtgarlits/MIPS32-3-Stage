@@ -1,0 +1,79 @@
+C:/Users/iblee/Desktop/Project6/ALU.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+-- Compiling module alu2b
+-- Compiling module lac2
+-- Compiling module lac4
+-- Compiling module lac8
+-- Compiling module lac16
+-- Compiling module lac32
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/iblee/Desktop/Project6/DFF3.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/DFF3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DFF3
+
+Top level modules:
+	DFF3
+
+} {} {}} C:/Users/iblee/Desktop/Project6/Mux21.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/Mux21.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux21
+
+Top level modules:
+	Mux21
+
+} {} {}} C:/Users/iblee/Desktop/Project6/SignEx.v {2 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/SignEx.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SignEx
+** Warning: C:/Users/iblee/Desktop/Project6/SignEx.v(28): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	SignEx
+
+} {} {}} C:/Users/iblee/Desktop/Project6/Opcode.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/Opcode.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Opcode
+
+Top level modules:
+	Opcode
+
+} {} {}} C:/Users/iblee/Desktop/Project6/Project6_test.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/Project6_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Project6_test
+
+Top level modules:
+	Project6_test
+
+} {} {}} C:/Users/iblee/Desktop/Project6/Project6.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/Project6.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Project6
+
+Top level modules:
+	Project6
+
+} {} {}} C:/Users/iblee/Desktop/Project6/DFF32.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/DFF32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DFF32
+
+Top level modules:
+	DFF32
+
+} {} {}} C:/Users/iblee/Desktop/Project6/Decoder.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/Decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/iblee/Desktop/Project6/DFF.v {1 {vlog -work work -stats=none C:/Users/iblee/Desktop/Project6/DFF.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}}
